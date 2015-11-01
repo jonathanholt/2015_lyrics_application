@@ -1,0 +1,78 @@
+<resources>
+    <string-array name="albums">
+        <item>Moshi Moshi Harajuku</item>
+        <item>Pamyu Pamyu Revolution</item>
+        <item>Nanda Collection</item>
+        <item>Pika Pika Fantajin</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+    <string-array name="album1">
+        <item>Kyary no March</item>
+        <item>Cherry Bonbon</item>
+        <item>PonPonPon</item>
+        <item>Chōdo Ii no</item>
+        <item>Pinpon ga Nannai</item>
+        <item>Jelly</item>
+    </string-array>
+
+    <string-array name="album2">
+        <item>Tsukematsukeru</item>
+        <item>PonPonPon</item>
+        <item>Minna no Uta</item>
+        <item>Kyary ANAN</item>
+        <item>Candy Candy</item>
+        <item>Drinker</item>
+        <item>Onedari 44°C</item>
+        <item>Suki Sugite Kiresō</item>
+        <item>Giri Giri Safe</item>
+        <item>Oyasumi</item>
+        <item>Chan Chaka Chan Chan</item>
+    </string-array>
+
+    <string-array name="album3">
+        <item>Ninjari Bang Bang</item>
+        <item>Kimi ni 100 Percent</item>
+        <item>Super Scooter Happy</item>
+        <item>Invader Invader</item>
+        <item>Mi</item>
+        <item>Fashion Monster</item>
+        <item>Saigo no Ice Cream</item>
+        <item>Noriko to Norio</item>
+        <item>Furisodation</item>
+        <item>Kura Kura</item>
+        <item>Otona na Kodomo</item>
+    </string-array>
+
+    <string-array name="album4">
+        <item>Kira Kira Killer</item>
+        <item>Yume no Hajima Ring Ring</item>
+        <item>Mottai Night Land</item>
+        <item>Serious Hitomi</item>
+        <item>do do pi do</item>
+        <item>Family Party</item>
+        <item>Ring a Bell</item>
+        <item>Tokyo Highway</item>
+        <item>Koi Koi Koi</item>
+        <item>Sungoi Aura</item>
+        <item>Explorer</item>
+    </string-array>
+
+    <string-array name="others">
+        <item>100% no Jibun ni</item>
+        <item>Demo Demo Mada Mada</item>
+        <item>KISEKAE</item>
+        <item>Love Berry</item>
+        <item>Miracle Orange</item>
+        <item>Mondai Girl</item>
+        <item>MY ROOM</item>
+        <item>Point of View</item>
+        <item>Scanty Skimpy</item>
+        <item>Slow Mo</item>
+        <item>Unite Unite</item>
+    </string-array>
+
+
+
+
+</resources>

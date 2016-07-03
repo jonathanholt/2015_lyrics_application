@@ -4,6 +4,7 @@
         <item>Pamyu Pamyu Revolution</item>
         <item>Nanda Collection</item>
         <item>Pika Pika Fantajin</item>
+        <item>KPP BEST</item>
         <item>Miscellaneous</item>
     </string-array>
 
@@ -56,6 +57,15 @@
         <item>Koi Koi Koi</item>
         <item>Sungoi Aura</item>
         <item>Explorer</item>
+    </string-array>
+
+    <string-array name="album5">
+        <item>5iVE YEARS MONSTER</item>
+        <item>Kanzen Keitai</item>
+        <item>Crazy Party Night</item>
+        <item>No no no</item>
+        <item>Cosmetic Coaster</item>
+        <item>Sai and Kou</item>
     </string-array>
 
     <string-array name="others">

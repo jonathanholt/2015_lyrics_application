@@ -85,6 +85,8 @@ public class MainActivity2 extends FragmentActivity implements View.OnClickListe
         else if (value == 3)
             string_array = getResources().getStringArray(R.array.album4);
         else if (value == 4)
+            string_array = getResources().getStringArray(R.array.album5);
+        else if (value == 5)
             string_array = getResources().getStringArray(R.array.others);
 
         TableLayout table = (TableLayout) findViewById(R.id.table);

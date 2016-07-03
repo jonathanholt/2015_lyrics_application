@@ -36,6 +36,7 @@ public class FirstFragment extends Fragment{
         urlstring = urlstring.replaceAll("\\-", "");
         urlstring = urlstring.replaceAll("\\%", "");
         urlstring = urlstring.replaceAll("100", "onehundred");
+        urlstring = urlstring.replaceAll("5", "f");
         urlstring = urlstring.replaceAll("\\u00b0", "");
         urlstring = urlstring.replaceAll("\\u014D", "o");
         urlstring = urlstring.toLowerCase();
